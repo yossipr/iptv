@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1, Kan 11
-https://kan11sub.media.kan.org.il/hls/live/2024678/2024678/source1_4k/chunklist.m3u8
+https://kan11.media.kan.org.il/hls/live/2024514/2024514/source1_4k/chunklist.m3u8
 
 #EXTINF:-1, Keshet 12
 https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/2/hdntl=exp=1675706517~acl=%2f*~data=hdntl~hmac=92fa6c8a079d778f096143773404b55c1c989da3e3744d5df46849e71b3e8662/profileManifest.m3u8?_uid=a4303271-6f4e-402e-8770-af03473e4907&rK=a3
 
 #EXTINF:-1, Reshet 13
-http://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
+https://reshet.g-mana.live/media/cdefce3a-14ec-46cc-a147-1275c4a8b9ed/profile/2/profileManifest.m3u8?_uid=27741884-f99c-4139-a173-5b259b603a4b&rK=a2update 
