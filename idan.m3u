@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1, Kan 11
-http://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
+https://kan11sub.media.kan.org.il/hls/live/2024678/2024678/master.m3u8
 
 #EXTINF:-1, Keshet 12
 https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/2/hdntl=exp=1675706517~acl=%2f*~data=hdntl~hmac=92fa6c8a079d778f096143773404b55c1c989da3e3744d5df46849e71b3e8662/profileManifest.m3u8?_uid=a4303271-6f4e-402e-8770-af03473e4907&rK=a3
