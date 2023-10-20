@@ -1,8 +1,8 @@
 #EXTM3U
 
 #EXTINF:-1, Kan 11
-https://kan11.media.kan.org.il/hls/live/2024514/2024514/source1_4k/chunklist.m3u8 tvg-logo="https://yt3.googleusercontent.com/GOlHyQrQt2815v4nCO8YeUdvaoUqTcQ4LzaJESvndY4IB7Ll70HUYbS-vbpyXzQ8u8lst1FM=s176-c-k-c0x00ffffff-no-rj"
+https://kan11.media.kan.org.il/hls/live/2024514/2024514/source1_4k/chunklist.m3u8
 
 #EXTINF:-1, Reshet 13
-http://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8  tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/1/17/Reshet13Logo2022.svg/255px-Reshet13Logo2022.svg.png"
+http://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
 
