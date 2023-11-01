@@ -1,0 +1,437 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="------|Canada|------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/------|Canada|------.png" group-title="CA General",------|Canada|------
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3069
+#EXTINF:-1 tvg-id="abc.spark.ca" tvg-name="CA001:ABC Spark HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA001ABC-SPARK.png" group-title="CA General",CA001:ABC Spark HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3068
+#EXTINF:-1 tvg-id="sportsnet.ca" tvg-name="CA002:Sportnet Ontario HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA002SPORTSNET-ONTARIO.png" group-title="CA Sports",CA002:Sportnet Ontario HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3067
+#EXTINF:-1 tvg-id="amc.canada.ca" tvg-name="CA003:AMC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA003AMC.png" group-title="CA Movies",CA003:AMC HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3066
+#EXTINF:-1 tvg-id="animal.planet.canada.ca" tvg-name="CA004:Animal Planet HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA004ANIMAL-PLANET.png" group-title="CA Doc",CA004:Animal Planet HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3065
+#EXTINF:-1 tvg-id="" tvg-name="CA005:TMN1E (CRAVE TV 1)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA005TMN-1.png" group-title="CA Movies",CA005:TMN1E (CRAVE TV 1)
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3064
+#EXTINF:-1 tvg-id="cbet.windsor.ca" tvg-name="CA006:BET" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA006BET.png" group-title="CA General",CA006:BET
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3063
+#EXTINF:-1 tvg-id="bnn.business.news.network.bloomberg.ca" tvg-name="CA007:BNN Bloomberg" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA007BNN.png" group-title="CA News",CA007:BNN Bloomberg
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3062
+#EXTINF:-1 tvg-id="nfl.network.ca" tvg-name="CA008:NFL Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA008BRAVO.png" group-title="CA Sports",CA008:NFL Network HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3061
+#EXTINF:-1 tvg-id="cbc.edmonton.ca" tvg-name="CA009:CBC Edmonton HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA009CBC-EAST.png" group-title="CA News",CA009:CBC Edmonton HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3060
+#EXTINF:-1 tvg-id="cbc.news.network.ca" tvg-name="CA010:CBC News Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA010CBC-NEWS-NETWORK.png" group-title="CA News",CA010:CBC News Network HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3059
+#EXTINF:-1 tvg-id="chch.ca" tvg-name="CA011:CHCH HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA011CHCH.png" group-title="CA General",CA011:CHCH HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3058
+#EXTINF:-1 tvg-id="city.montreal.ca" tvg-name="CA012:City TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA012CITY-TV.png" group-title="CA General",CA012:City TV HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3057
+#EXTINF:-1 tvg-id="cnn.ca" tvg-name="CA013:CNN HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA013CNN.png" group-title="CA News",CA013:CNN HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3056
+#EXTINF:-1 tvg-id="ctv.comedy.east.ca" tvg-name="CA014:CTV COMEDY HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA014COMEDY.png" group-title="CA Movies",CA014:CTV COMEDY HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3055
+#EXTINF:-1 tvg-id="cottage.life.ca" tvg-name="CA015:Cottage Life" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA015COTTAGE-LIFE.png" group-title="CA General",CA015:Cottage Life
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3054
+#EXTINF:-1 tvg-id="cp24.ca" tvg-name="CA016:CP24 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA016CP24.png" group-title="CA News",CA016:CP24 HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3053
+#EXTINF:-1 tvg-id="cpac.english.ca" tvg-name="CA017:CPAC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA017CPAC.png" group-title="CA News",CA017:CPAC HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3052
+#EXTINF:-1 tvg-id="" tvg-name="CA018:Bravo" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA018ABCWest.png" group-title="CA General",CA018:Bravo
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3051
+#EXTINF:-1 tvg-id="ctv.montreal.ca" tvg-name="CA019:CTV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA019CTV.png" group-title="CA General",CA019:CTV HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3050
+#EXTINF:-1 tvg-id="ctv.two.atlantic.ca" tvg-name="CA020:CTV 2 Atlantic HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA020CTVAtlantic.png" group-title="CA General",CA020:CTV 2 Atlantic HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3049
+#EXTINF:-1 tvg-id="ctv.news.ca" tvg-name="CA021:CTV NEWS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA021CTV-NEWS.png" group-title="CA News",CA021:CTV NEWS HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3048
+#EXTINF:-1 tvg-id="the.discovery.canada.ca" tvg-name="CA022:Discovery HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA022DISCOVERY.png" group-title="CA Doc",CA022:Discovery HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3047
+#EXTINF:-1 tvg-id="disney.canada.east.ca" tvg-name="CA023:Disney Channel HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA023DISNEY.png" group-title="CA Kids",CA023:Disney Channel HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3046
+#EXTINF:-1 tvg-id="disney.junior.canada.ca" tvg-name="CA024:Disney Junior HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA024DISNEY-JR.png" group-title="CA Kids",CA024:Disney Junior HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3045
+#EXTINF:-1 tvg-id="disney.xd.canada.ca" tvg-name="CA025:Disney XD HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA025DISNEY-XD.png" group-title="CA Kids",CA025:Disney XD HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3044
+#EXTINF:-1 tvg-id="" tvg-name="CA026:DIY Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA026DIY.png" group-title="CA Doc",CA026:DIY Network HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3043
+#EXTINF:-1 tvg-id="dtour.ca" tvg-name="CA027:Dtour HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA027DTOUR.png" group-title="CA General",CA027:Dtour HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3042
+#EXTINF:-1 tvg-id="e.entertainment.canada.ca" tvg-name="CA028:E! HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA028E!.png" group-title="CA General",CA028:E! HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3041
+#EXTINF:-1 tvg-id="family.canada.east.ca" tvg-name="CA029:Family HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA029FAMILY.png" group-title="CA Kids",CA029:Family HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3040
+#EXTINF:-1 tvg-id="food.network.ca" tvg-name="CA030:Food Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA030FOOD-NETWORK.png" group-title="CA General",CA030:Food Network HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3039
+#EXTINF:-1 tvg-id="" tvg-name="CA031:NTV St. John`s" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA03" group-title="CA General",CA031:NTV St. John`s
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3038
+#EXTINF:-1 tvg-id="nba.canada.ca" tvg-name="CA032:NBA HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA032NBACA.png" group-title="CA Sports",CA032:NBA HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3037
+#EXTINF:-1 tvg-id="fxx.canada.ca" tvg-name="CA033:FXX HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA033FXX-HD.png" group-title="CA General",CA033:FXX HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3036
+#EXTINF:-1 tvg-id="global.durham.on.ca" tvg-name="CA034:Global Durham" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA034GLOBAL-EAST.png" group-title="CA News",CA034:Global Durham
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3035
+#EXTINF:-1 tvg-id="hollywood.suite.00s.us" tvg-name="CA035:Hollywood Suite 00's" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA035" group-title="CA Movies",CA035:Hollywood Suite 00's
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3034
+#EXTINF:-1 tvg-id="" tvg-name="CA036:WGN 9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA036GUSTO.png" group-title="CA News",CA036:WGN 9
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3033
+#EXTINF:-1 tvg-id="hbo1.ca" tvg-name="CA037:HBO 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA037HBO-EAST.png" group-title="CA Movies",CA037:HBO 1
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3032
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="CA038:HBO 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA038HBO-WEST.png" group-title="CA Movies",CA038:HBO 2
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3031
+#EXTINF:-1 tvg-id="hgtv.canada.ca" tvg-name="CA039:HGTV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA039HGTV.png" group-title="CA General",CA039:HGTV HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3030
+#EXTINF:-1 tvg-id="historia.ca" tvg-name="CA040:History HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA040HISTORY.png" group-title="CA Doc",CA040:History HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3029
+#EXTINF:-1 tvg-id="hln.ca" tvg-name="CA041:HLN HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA041HLN.png" group-title="CA General",CA041:HLN HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3028
+#EXTINF:-1 tvg-id="investigation.discovery.ca" tvg-name="CA042:Investigation Discovery HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA042ID.png" group-title="CA Doc",CA042:Investigation Discovery HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3027
+#EXTINF:-1 tvg-id="pbs.boston.ma.ca" tvg-name="CA043:PBS Buffalo (WNED)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA043PBS.png" group-title="CA Kids",CA043:PBS Buffalo (WNED)
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3026
+#EXTINF:-1 tvg-id="lifetime.canada.ca" tvg-name="CA044:LIFETIME HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA044LIFETIME.png" group-title="CA Movies",CA044:LIFETIME HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3025
+#EXTINF:-1 tvg-id="mtv.2.canada.ca" tvg-name="CA045:GINX eSports TV (FR)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA045" group-title="CA Sports",CA045:GINX eSports TV (FR)
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3024
+#EXTINF:-1 tvg-id="showcase.canada.ca" tvg-name="CA046:ShowCase HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA046ShowCaseCA.png" group-title="CA Movies",CA046:ShowCase HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3023
+#EXTINF:-1 tvg-id="wpch.ca" tvg-name="CA047:WPHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA047" group-title="CA General",CA047:WPHD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3022
+#EXTINF:-1 tvg-id="much.music.ca" tvg-name="CA048:Much HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA048MUCHMUSIC.png" group-title="CA Movies",CA048:Much HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3021
+#EXTINF:-1 tvg-id="national.geographic.canada.ca" tvg-name="CA049:National Geographic HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA049NAT-GEO.png" group-title="CA Doc",CA049:National Geographic HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3020
+#EXTINF:-1 tvg-id="natgeo.wild.canada.ca" tvg-name="CA050:NAT GEO WILD HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA050NAT-GEO-WILD.png" group-title="CA Doc",CA050:NAT GEO WILD HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3019
+#EXTINF:-1 tvg-id="sportsnet.world.ca" tvg-name="CA051:Sportsnet World HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA051SportsnetWorld.png" group-title="CA Sports",CA051:Sportsnet World HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3018
+#EXTINF:-1 tvg-id="" tvg-name="CA052:OLN HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA052OLN.png" group-title="CA General",CA052:OLN HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3017
+#EXTINF:-1 tvg-id="weather.network.ca" tvg-name="CA053:TVM3 (FR)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA053" group-title="CA General",CA053:TVM3 (FR)
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3016
+#EXTINF:-1 tvg-id="263.cape.town.za" tvg-name="CA054:OWN HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA054OWN.png" group-title="CA General",CA054:OWN HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3015
+#EXTINF:-1 tvg-id="treehouse.ca" tvg-name="CA055:Treehouse" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA055PEACH-TREE.png" group-title="CA General",CA055:Treehouse
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3014
+#EXTINF:-1 tvg-id="slice.ca" tvg-name="CA056:SLICE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA056SLICE.png" group-title="CA General",CA056:SLICE HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3013
+#EXTINF:-1 tvg-id="smithsonian.canada.ca" tvg-name="CA057:Smithsonian HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA057SMITHSONIAN.png" group-title="CA Doc",CA057:Smithsonian HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3012
+#EXTINF:-1 tvg-id="wwe.network.ca" tvg-name="CA058:WWE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA058SPACE.png" group-title="CA Sports",CA058:WWE
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3011
+#EXTINF:-1 tvg-id="sportsnet.360.ca" tvg-name="CA059:Sportsnet -360" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA059SPORTSNET-360.png" group-title="CA Sports",CA059:Sportsnet -360
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3010
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="CA060:Sportsnet East HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA060SPORTSNET-EAST.png" group-title="CA Sports",CA060:Sportsnet East HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3009
+#EXTINF:-1 tvg-id="sportsnet.one.ca" tvg-name="CA061:Sportsnet-ONE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA061SPORTSNET-ONE.png" group-title="CA Sports",CA061:Sportsnet-ONE
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3008
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="CA062:Sportsnet West HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA062SPORTSNET-WEST.png" group-title="CA Sports",CA062:Sportsnet West HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3007
+#EXTINF:-1 tvg-id="135.discovery.tlc.za" tvg-name="CA063:TLC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA063TLC.png" group-title="CA General",CA063:TLC HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3006
+#EXTINF:-1 tvg-id="frissons.ca" tvg-name="CA064:LCN (FR)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA064" group-title="CA News",CA064:LCN (FR)
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3005
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="CA065:TSN-1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA065TSN-1.png" group-title="CA Sports",CA065:TSN-1 HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3004
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA066:TSN-2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA066TSN-2.png" group-title="CA Sports",CA066:TSN-2 HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3003
+#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="CA067:TSN-3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA067TSN-3.png" group-title="CA Sports",CA067:TSN-3 HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3002
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA068:TSN-4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA068TSN-4.png" group-title="CA Sports",CA068:TSN-4 HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3001
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="CA069:TSN-5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA069TSN-5.png" group-title="CA Sports",CA069:TSN-5 HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/3000
+#EXTINF:-1 tvg-id="tvontario.ca" tvg-name="CA070:TVO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA070TVO.png" group-title="CA General",CA070:TVO HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/2999
+#EXTINF:-1 tvg-id="game.show.network.ca" tvg-name="CA071:Game TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA071GameTV.png" group-title="CA General",CA071:Game TV HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/2998
+#EXTINF:-1 tvg-id="ytv.ca" tvg-name="CA072:YTV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA072YTV.png" group-title="CA General",CA072:YTV
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/2997
+#EXTINF:-1 tvg-id="the.weather.network.ca" tvg-name="CA073:Weather channel HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA073WEATHER-CHANNEL.png" group-title="CA General",CA073:Weather channel HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/2996
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="CA074:ICI RDI (FR)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA074ICI RDI.png" group-title="CA News",CA074:ICI RDI (FR)
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/2995
+#EXTINF:-1 tvg-id="yes.ca" tvg-name="CA075:YES HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA075YES-HD.png" group-title="CA General",CA075:YES HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/2994
+#EXTINF:-1 tvg-id="tva.ca" tvg-name="CA076:TVA Montreal" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA076TVAFR.png" group-title="CA General",CA076:TVA Montreal
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/2993
+#EXTINF:-1 tvg-id="tva.sports.ca" tvg-name="CA077:TVA Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA077TVASportsFR.png" group-title="CA Sports",CA077:TVA Sports
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/2992
+#EXTINF:-1 tvg-id="canal.vie.ca" tvg-name="CA078:Headline News (FR)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA078" group-title="CA General",CA078:Headline News (FR)
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/2991
+#EXTINF:-1 tvg-id="super.vault.ca" tvg-name="CA079:Super Channel Vault" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA079SUPERCHANNELVAULT.png" group-title="CA Movies",CA079:Super Channel Vault
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/2990
+#EXTINF:-1 tvg-id="canal.d.ca" tvg-name="CA080:Canal D (FR)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA080LCNFR.png" group-title="CA News",CA080:Canal D (FR)
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/2989
+#EXTINF:-1 tvg-id="dejaview.ca" tvg-name="CA081:DEJAVIEW" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA081" group-title="CA General",CA081:DEJAVIEW
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/2988
+#EXTINF:-1 tvg-id="rds.ca" tvg-name="CA082:RDS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA082RDSFR.png" group-title="CA Sports",CA082:RDS
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/2987
+#EXTINF:-1 tvg-id="a.e.network.canada.ca" tvg-name="CA083:A&E HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA083A&E.png" group-title="CA General",CA083:A&E HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30231
+#EXTINF:-1 tvg-id="talent.vision.ca" tvg-name="CA084:Vision" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA084" group-title="CA General",CA084:Vision
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30230
+#EXTINF:-1 tvg-id="msnbc.canada.ca" tvg-name="CA085:MSNBC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA085ACTION.png" group-title="CA General",CA085:MSNBC
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30229
+#EXTINF:-1 tvg-id="telelatino.ca" tvg-name="CA086:Telelatino (FR)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA086ADDIKTV.png" group-title="CA General",CA086:Telelatino (FR)
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30228
+#EXTINF:-1 tvg-id="super.fuse.ca" tvg-name="CA087:Super Channel Fuse" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA087AHC.png" group-title="CA Movies",CA087:Super Channel Fuse
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30227
+#EXTINF:-1 tvg-id="dv.aptnn.ca" tvg-name="CA088:APTN HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA088APTN.png" group-title="CA General",CA088:APTN HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30226
+#EXTINF:-1 tvg-id="super.sports.pak.1.ca" tvg-name="CA089:Super Sports CH 267" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA089" group-title="CA Sports",CA089:Super Sports CH 267
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30225
+#EXTINF:-1 tvg-id="super.sports.pak.2.ca" tvg-name="CA090:Super Sports CH 475" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/" group-title="CA Sports",CA090:Super Sports CH 475
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30224
+#EXTINF:-1 tvg-id="bbc.earth.ca" tvg-name="CA091:BBC CANADA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA091BBCCANADA.png" group-title="CA News",CA091:BBC CANADA
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30223
+#EXTINF:-1 tvg-id="bbc.world.news.ca" tvg-name="CA092:BBC World News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA092BBCWORLDNEWS.png" group-title="CA News",CA092:BBC World News
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30222
+#EXTINF:-1 tvg-id="book.ca" tvg-name="CA093:Global BC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/" group-title="CA News",CA093:Global BC
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30221
+#EXTINF:-1 tvg-id="le.nouvelles.ca" tvg-name="CA094:Le Canal Nouvelles (FR)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA094" group-title="CA Doc",CA094:Le Canal Nouvelles (FR)
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30220
+#EXTINF:-1 tvg-id="savoir.madia.ca" tvg-name="CA095:CANAL Savoir" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA095CANALSAVOIR.png" group-title="CA Doc",CA095:CANAL Savoir
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30219
+#EXTINF:-1 tvg-id="cartoon.network.canada.ca" tvg-name="CA096:Cartoon Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA096CARTOONNETWORK.png" group-title="CA Kids",CA096:Cartoon Network
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30218
+#EXTINF:-1 tvg-id="casa.ca" tvg-name="CA097:CASA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA097CASA.png" group-title="CA General",CA097:CASA
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30217
+#EXTINF:-1 tvg-id="cbc.montreal.qc.ca" tvg-name="CA098:CBC Montreal" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA098CBCMONTREAL.png" group-title="CA News",CA098:CBC Montreal
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30216
+#EXTINF:-1 tvg-id="cbc.ottawa.on.ca" tvg-name="CA100:CBC OTTAWA HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA100CBCOTTAWA.png" group-title="CA News",CA100:CBC OTTAWA HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30214
+#EXTINF:-1 tvg-id="cbc.toronto.ca" tvg-name="CA101:CBC Toronto" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA101CBCTORONTO.png" group-title="CA News",CA101:CBC Toronto
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30213
+#EXTINF:-1 tvg-id="cbc.vancouver.ca" tvg-name="CA102:CBC Vancouver" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA102CBCVANCOUVER.png" group-title="CA News",CA102:CBC Vancouver
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30212
+#EXTINF:-1 tvg-id="ctv.regina.ca" tvg-name="CA103:CTV Regina" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/" group-title="CA General",CA103:CTV Regina
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30211
+#EXTINF:-1 tvg-id="game.show.network.ca" tvg-name="CA104:Game Show Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/" group-title="CA General",CA104:Game Show Network
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30210
+#EXTINF:-1 tvg-id="cinepop.ca" tvg-name="CA105:ZESTE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA105" group-title="CA Movies",CA105:ZESTE
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30209
+#EXTINF:-1 tvg-id="citytv.toronto.ca" tvg-name="CA106:City Toronto" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA106CITYTORONTO.png" group-title="CA General",CA106:City Toronto
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30208
+#EXTINF:-1 tvg-id="global.lethbridge.ca" tvg-name="CA107:Global Lethbridge" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA107" group-title="CA News",CA107:Global Lethbridge
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30207
+#EXTINF:-1 tvg-id="cmt.ca" tvg-name="CA108:CMT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA108CMTCANADA.png" group-title="CA General",CA108:CMT
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30206
+#EXTINF:-1 tvg-id="cnbc.canada.ca" tvg-name="CA109:CNBC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA109CNBC.png" group-title="CA News",CA109:CNBC
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30205
+#EXTINF:-1 tvg-id="cnn.international.north.america.ca" tvg-name="CA110:CNN International" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA110CNNINTERNATIONAL.png" group-title="CA News",CA110:CNN International
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30204
+#EXTINF:-1 tvg-id="" tvg-name="CA111:ICnet TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA111COMEDYGOLD.png" group-title="CA Movies",CA111:ICnet TV
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30203
+#EXTINF:-1 tvg-id="the.cooking.ca" tvg-name="CA112:Cooking Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA112COOKINGCHANNEL.png" group-title="CA General",CA112:Cooking Channel
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30202
+#EXTINF:-1 tvg-id="ctv.montreal.qc.ca" tvg-name="CA113:QVTV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA113" group-title="CA News",CA113:QVTV
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30201
+#EXTINF:-1 tvg-id="cpac.english.ca" tvg-name="CA114:CPAC (FR)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA114CPACFRENCH.png" group-title="CA General",CA114:CPAC (FR)
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30200
+#EXTINF:-1 tvg-id="crime.plus.investigation.ca" tvg-name="CA115:Crime & Investigation HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA115CRIMEINVEST.png" group-title="CA Doc",CA115:Crime & Investigation HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30199
+#EXTINF:-1 tvg-id="discovery.velocity.ca" tvg-name="CA116:Discovery Velocity" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA116" group-title="CA News",CA116:Discovery Velocity
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30198
+#EXTINF:-1 tvg-id="ctv.ottawa.ca" tvg-name="CA117:CTV Ottawa" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA117CTVOTTAWA.png" group-title="CA News",CA117:CTV Ottawa
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30197
+#EXTINF:-1 tvg-id="ctv.toronto.ca" tvg-name="CA118:CTV Toronto" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA118CTVTORONTO.png" group-title="CA News",CA118:CTV Toronto
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30196
+#EXTINF:-1 tvg-id="ctv.vancouver.british.columbia.ca" tvg-name="CA119:CTV Vancouver" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA119CTVVANCOUVER.png" group-title="CA News",CA119:CTV Vancouver
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30195
+#EXTINF:-1 tvg-id="ctv.two.ottawa.chro.ca" tvg-name="CA120:CTV2 Ottawa" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA120CTV2OTTAWA.png" group-title="CA News",CA120:CTV2 Ottawa
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30194
+#EXTINF:-1 tvg-id="" tvg-name="CA121:Isuma TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/" group-title="CA General",CA121:Isuma TV
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30193
+#EXTINF:-1 tvg-id="global.edmonton.ca" tvg-name="CA122:Global Edmonton" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA122" group-title="CA News",CA122:Global Edmonton
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30192
+#EXTINF:-1 tvg-id="hollywood.suite.70s.ca" tvg-name="CA123:W Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA123" group-title="CA Movies",CA123:W Network
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30191
+#EXTINF:-1 tvg-id="discovery.science.ca" tvg-name="CA124:Discovery Science HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA124DISCOVERYSCIENCECANADA.png" group-title="CA Doc",CA124:Discovery Science HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30190
+#EXTINF:-1 tvg-id="movietime.ca" tvg-name="CA125:MovieTime" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA125MovieTime.png" group-title="CA Movies",CA125:MovieTime
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30189
+#EXTINF:-1 tvg-id="super.sports.pak.3.ca" tvg-name="CA126:Super Sports CH 477" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA126" group-title="CA Sports",CA126:Super Sports CH 477
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30188
+#EXTINF:-1 tvg-id="ctv.sci.fi.ca" tvg-name="CA128:CTV Sci-Fi" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA128" group-title="CA Movies",CA128:CTV Sci-Fi
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30186
+#EXTINF:-1 tvg-id="evasion.ca" tvg-name="CA129:Evasion (FR)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA129EVASION.png" group-title="CA General",CA129:Evasion (FR)
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30185
+#EXTINF:-1 tvg-id="family.chrgd.ca" tvg-name="CA130:Family CHRGD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA130FAMILYCHRGD.png" group-title="CA Kids",CA130:Family CHRGD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30184
+#EXTINF:-1 tvg-id="family.jr.ca" tvg-name="CA131:Family Jr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA131FAMILYJR.png" group-title="CA Kids",CA131:Family Jr
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30183
+#EXTINF:-1 tvg-id="fight.network.canada.ca" tvg-name="CA132:Fight Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA132FIGHTNETWORK.png" group-title="CA Sports",CA132:Fight Network HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30182
+#EXTINF:-1 tvg-id="fox.news.ca" tvg-name="CA133:Fox News HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA133FOXNEWS.png" group-title="CA News",CA133:Fox News HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30181
+#EXTINF:-1 tvg-id="fox.sports.racing.ca" tvg-name="CA134:FOX Sports Racing" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA134FOXWEST.png" group-title="CA Sports",CA134:FOX Sports Racing
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30180
+#EXTINF:-1 tvg-id="ctv.saskatchewan.saskatoon.ca" tvg-name="CA135:ZESTE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA135FrissonsTV.png" group-title="CA General",CA135:ZESTE
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30179
+#EXTINF:-1 tvg-id="bein.sport.canada.ca" tvg-name="CA136:Bein Sports HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA136BeinSports.png" group-title="CA Sports",CA136:Bein Sports HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30178
+#EXTINF:-1 tvg-id="global.toronto.ca" tvg-name="CA137:Global Toronto" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA137GLOBALTORONTO.png" group-title="CA News",CA137:Global Toronto
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30177
+#EXTINF:-1 tvg-id="global.calgary.ab.dv.ca" tvg-name="CA138:Global Vancouver" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA138GLOBALVANCOUVER.png" group-title="CA News",CA138:Global Vancouver
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30176
+#EXTINF:-1 tvg-id="golf.canada.ca" tvg-name="CA139:GOLF HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA139GOLF.png" group-title="CA Sports",CA139:GOLF HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30175
+#EXTINF:-1 tvg-id="history2.canada.ca" tvg-name="CA140:History 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA140H2CANADA.png" group-title="CA Doc",CA140:History 2
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30174
+#EXTINF:-1 tvg-id="adult.swim.east.ca" tvg-name="CA141:Adult Swim HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/" group-title="CA Kids",CA141:Adult Swim HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30173
+#EXTINF:-1 tvg-id="" tvg-name="CA142:IIPC TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA142HBO2.png" group-title="CA News",CA142:IIPC TV
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30172
+#EXTINF:-1 tvg-id="love.nature.ca" tvg-name="CA143:Love Nature" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA143HISTORIO.png" group-title="CA Doc",CA143:Love Nature
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30171
+#EXTINF:-1 tvg-id="ici.montreal.qc.ca" tvg-name="CA144:ICI Tele Montreal (FR)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA144" group-title="CA General",CA144:ICI Tele Montreal (FR)
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30170
+#EXTINF:-1 tvg-id="ctv.two.vancouver.island.civi.ca" tvg-name="CA145:CTV2 Barrie" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA145ICIVANCOUVER.png" group-title="CA News",CA145:CTV2 Barrie
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30169
+#EXTINF:-1 tvg-id="cifci.tr" tvg-name="CA146:IFC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA146ICIRDI.png" group-title="CA General",CA146:IFC
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30168
+#EXTINF:-1 tvg-id="ktla.los.angeles.ca.ca" tvg-name="CA148:(FR) SERIES Plus SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/" group-title="CA General",CA148:(FR) SERIES Plus SD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30166
+#EXTINF:-1 tvg-id="historia.ca" tvg-name="CA149:(FR) Historia" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA149" group-title="CA General",CA149:(FR) Historia
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30165
+#EXTINF:-1 tvg-id="max.ca" tvg-name="CA150:MAX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA150MAX.png" group-title="CA General",CA150:MAX
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30164
+#EXTINF:-1 tvg-id="meteomedia.ca" tvg-name="CA151:Meteo Media (FR)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA151METEO.png" group-title="CA General",CA151:Meteo Media (FR)
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30163
+#EXTINF:-1 tvg-id="the.miracle.in.ca" tvg-name="CA152:Miracle" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA152MIRACLE.png" group-title="CA General",CA152:Miracle
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30162
+#EXTINF:-1 tvg-id="ctv.drama.ca" tvg-name="CA153:CTV Drama" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/" group-title="CA Movies",CA153:CTV Drama
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30161
+#EXTINF:-1 tvg-id="prime.asia.ca" tvg-name="CA154:Prime" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/" group-title="CA General",CA154:Prime
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30160
+#EXTINF:-1 tvg-id="w.network.ca" tvg-name="CA156:W Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA156" group-title="CA General",CA156:W Network
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30158
+#EXTINF:-1 tvg-id="moi.cie.ca" tvg-name="CA157:MOI et CIE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA157VIE.png" group-title="CA General",CA157:MOI et CIE
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30157
+#EXTINF:-1 tvg-id="vrak.ca" tvg-name="CA159:VRAK TV (FR)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA159" group-title="CA General",CA159:VRAK TV (FR)
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30155
+#EXTINF:-1 tvg-id="game.plus.ca" tvg-name="CA160:Game Plus" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA160WFN.png" group-title="CA General",CA160:Game Plus
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30154
+#EXTINF:-1 tvg-id="addik.ca" tvg-name="CA161:CTV Kitchener" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA161" group-title="CA General",CA161:CTV Kitchener
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30153
+#EXTINF:-1 tvg-id="wild.ca" tvg-name="CA162:Wild TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA162WildTV.png" group-title="CA General",CA162:Wild TV
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30152
+#EXTINF:-1 tvg-id="super.sports.pak.4.ca" tvg-name="CA163:Super Sports CH 474" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA163" group-title="CA Sports",CA163:Super Sports CH 474
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30151
+#EXTINF:-1 tvg-id="yoopa.ca" tvg-name="CA164:YOOPA (FR)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA164YOOPA.png" group-title="CA Kids",CA164:YOOPA (FR)
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30150
+#EXTINF:-1 tvg-id="zeste.ca" tvg-name="CA166:NETV Toronto (FR)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA166ZESTE.png" group-title="CA General",CA166:NETV Toronto (FR)
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30148
+#EXTINF:-1 tvg-id="tfo.ca" tvg-name="CA167:TFO (FR)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA167TFO.png" group-title="CA General",CA167:TFO (FR)
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30147
+#EXTINF:-1 tvg-id="noovo.ca" tvg-name="CA168:CTV2 London" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA168THEWEATHERNETWORK.png" group-title="CA General",CA168:CTV2 London
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30146
+#EXTINF:-1 tvg-id="crave2.east.ca" tvg-name="CA169:TMN2E (CRAVE TV 2)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA169CRAVE2/TMN2.png" group-title="CA Movies",CA169:TMN2E (CRAVE TV 2)
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30145
+#EXTINF:-1 tvg-id="crave3.east.ca" tvg-name="CA170:TMN3E (CRAVE TV 3)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA170CRAVE3/TMN3.png" group-title="CA Movies",CA170:TMN3E (CRAVE TV 3)
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30144
+#EXTINF:-1 tvg-id="" tvg-name="CA171:TMN4E (CRAVE TV 4)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA171CRAVE4/TMN4.png" group-title="CA Movies",CA171:TMN4E (CRAVE TV 4)
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30143
+#EXTINF:-1 tvg-id="" tvg-name="CA172:TV5 QUEBEC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA172TV5QUEBEC.png" group-title="CA News",CA172:TV5 QUEBEC HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30142
+#EXTINF:-1 tvg-id="mtv.india.ca" tvg-name="CA173:MTV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA173" group-title="CA General",CA173:MTV
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30141
+#EXTINF:-1 tvg-id="omni.1.ca" tvg-name="CA174:OMNI 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA174OMNI1.png" group-title="CA General",CA174:OMNI 1 HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30140
+#EXTINF:-1 tvg-id="omni2.ca" tvg-name="CA175:OMNI 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA175OMNI2.png" group-title="CA General",CA175:OMNI 2 HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30139
+#EXTINF:-1 tvg-id="one.ca" tvg-name="CA176:Canada One" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA176ONE.png" group-title="CA General",CA176:Canada One
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30138
+#EXTINF:-1 tvg-id="outtv.ca" tvg-name="CA177:TVA QUEBEC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA177OUTTV.png" group-title="CA General",CA177:TVA QUEBEC
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30137
+#EXTINF:-1 tvg-id="peachtree.ca" tvg-name="CA178:Peachtree" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA178PEACHTREE.png" group-title="CA General",CA178:Peachtree
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30136
+#EXTINF:-1 tvg-id="prise.2.ca" tvg-name="CA179:PRISE (FR)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA179PRISE2.png" group-title="CA General",CA179:PRISE (FR)
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30135
+#EXTINF:-1 tvg-id="super.sports.pak.5.ca" tvg-name="CA180:Super Sports CH 476" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA180" group-title="CA Sports",CA180:Super Sports CH 476
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30134
+#EXTINF:-1 tvg-id="global.maritimes.ca" tvg-name="CA181:Global Maritimes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA181GLOBAL.png" group-title="CA News",CA181:Global Maritimes
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30133
+#EXTINF:-1 tvg-id="rds.2.ca" tvg-name="CA182:RDS 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA182RDS2.png" group-title="CA Sports",CA182:RDS 2
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30132
+#EXTINF:-1 tvg-id="ewtn.canada.ca" tvg-name="CA183:EWTN (FR)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA183" group-title="CA News",CA183:EWTN (FR)
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30131
+#EXTINF:-1 tvg-id="capital.networks.shopping.2.ca" tvg-name="CA185:The Shopping Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA185SHOPPING.png" group-title="CA General",CA185:The Shopping Channel
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30129
+#EXTINF:-1 tvg-id="silver.screen.classics.ca" tvg-name="CA186:Silver Screen Classics" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA186SILVERSCREENCLASSICS.png" group-title="CA Movies",CA186:Silver Screen Classics
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30128
+#EXTINF:-1 tvg-id="paramount.network.canada.ca" tvg-name="CA187:Paramount Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA187SPIKETV/PARAMOUNTCANADA.png" group-title="CA Movies",CA187:Paramount Network HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30127
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="CA188:Sportnet Pacific HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA188SPORTSNETPACIFIC.png" group-title="CA Sports",CA188:Sportnet Pacific HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30126
+#EXTINF:-1 tvg-id="super.ecran.1.ca" tvg-name="CA189:SUPER ECRAN 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA189SUPERECRAN1.png" group-title="CA Movies",CA189:SUPER ECRAN 1
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30125
+#EXTINF:-1 tvg-id="super.ecran.2.ca" tvg-name="CA190:SUPER ECRAN 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA190SUPERECRAN2.png" group-title="CA Movies",CA190:SUPER ECRAN 2
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30124
+#EXTINF:-1 tvg-id="super.ecran.3.ca" tvg-name="CA191:SUPER ECRAN 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA191SUPERECRAN3.png" group-title="CA Movies",CA191:SUPER ECRAN 3
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30123
+#EXTINF:-1 tvg-id="super.ecran.4.ca" tvg-name="CA192:SUPER ECRAN 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA192SUPERECRAN4.png" group-title="CA Movies",CA192:SUPER ECRAN 4
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30122
+#EXTINF:-1 tvg-id="turner.classic.movies.canada.ca" tvg-name="CA194:Turner Classic Movies" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA194TELELATINO.png" group-title="CA Movies",CA194:Turner Classic Movies
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30120
+#EXTINF:-1 tvg-id="knowledge.network.ca" tvg-name="CA195:CBC Yellowknife NT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA195" group-title="CA General",CA195:CBC Yellowknife NT
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30119
+#EXTINF:-1 tvg-id="ckws.ctv.global.kingston.ca" tvg-name="CA196:Global Kingston" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA196" group-title="CA News",CA196:Global Kingston
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30118
+#EXTINF:-1 tvg-id="teletoon.east.ca" tvg-name="CA197:Teletoon" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA197TELETOONFRENCH.png" group-title="CA Kids",CA197:Teletoon
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30117
+#EXTINF:-1 tvg-id="cbc.regina.ca" tvg-name="CA198:CBC Regina" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA198TELEMAGINO.png" group-title="CA General",CA198:CBC Regina
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30116
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="CA199:NBC (wycn) Nashua" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA199NBCEAST.png" group-title="CA General",CA199:NBC (wycn) Nashua
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30115
+#EXTINF:-1 tvg-id="" tvg-name="CA200:NBC 8 (wycn) Boston" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA200NBCWEST.png" group-title="CA General",CA200:NBC 8 (wycn) Boston
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30114
+#EXTINF:-1 tvg-id="city.montreal.qc.ca" tvg-name="CA201:Prise 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA201CITYMONTREAL.png" group-title="CA General",CA201:Prise 2
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30113
+#EXTINF:-1 tvg-id="makeful.ca" tvg-name="CA202:Makeful" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA202MAKEFUL.png" group-title="CA General",CA202:Makeful
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30112
+#EXTINF:-1 tvg-id="mlb.network.ca" tvg-name="CA203:MLB Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA203MLBNETWORK.png" group-title="CA Sports",CA203:MLB Network HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30111
+#EXTINF:-1 tvg-id="ctv.halifax.ca" tvg-name="CA204:CBC Halifax" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA204CTVHALIFAX.png" group-title="CA General",CA204:CBC Halifax
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30110
+#EXTINF:-1 tvg-id="ctv.halifax.ca" tvg-name="CA205:Global Halifax" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA205GLOBALHALIFAX.png" group-title="CA News",CA205:Global Halifax
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30109
+#EXTINF:-1 tvg-id="" tvg-name="CA206:Fox 13 (kcpq) Seattle" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA206HOPETV.png" group-title="CA General",CA206:Fox 13 (kcpq) Seattle
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30108
+#EXTINF:-1 tvg-id="cbc.windsor.on.ca" tvg-name="CA207:CBC Windsor" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA207CBCNOVASCOTIA.png" group-title="CA News",CA207:CBC Windsor
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30107
+#EXTINF:-1 tvg-id="unis.est.ca" tvg-name="CA208:UNIS TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA208UNISTV.png" group-title="CA General",CA208:UNIS TV
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30106
+#EXTINF:-1 tvg-id="nickelodeon.canada.ca" tvg-name="CA209:Nicktoon" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA209NICK.png" group-title="CA Kids",CA209:Nicktoon
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30105
+#EXTINF:-1 tvg-id="2m.maroc.ca" tvg-name="CA210:Hollywood Suite 70's" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA210MAVTVCANADA.png" group-title="CA General",CA210:Hollywood Suite 70's
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30104
+#EXTINF:-1 tvg-id="fx.networks.canada.ca" tvg-name="CA211:FX FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA211FXFHD.png" group-title="CA Movies",CA211:FX FHD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30103
+#EXTINF:-1 tvg-id="mediaset.italia.ca" tvg-name="CA212:Rogers TV London" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA212" group-title="CA News",CA212:Rogers TV London
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30102
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="CA213:Travel Escape" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA213TRAVELESCAPE.png" group-title="CA General",CA213:Travel Escape
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30101
+#EXTINF:-1 tvg-id="cbc.calgary.ca" tvg-name="CA214:CBC Calgary" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA214CBCCALGARY.png" group-title="CA News",CA214:CBC Calgary
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30100
+#EXTINF:-1 tvg-id="city.calgary.ab.ca" tvg-name="CA215:City Calgary" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA215CITYCALGARY.png" group-title="CA General",CA215:City Calgary
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30099
+#EXTINF:-1 tvg-id="ctv.calgary.ca" tvg-name="CA216:CTV Calgary" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA216CTVCALGARY.png" group-title="CA News",CA216:CTV Calgary
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30098
+#EXTINF:-1 tvg-id="global.calgary.ca" tvg-name="CA217:Global Calgary" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA217GLOBALCALGARY.png" group-title="CA News",CA217:Global Calgary
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30097
+#EXTINF:-1 tvg-id="sportsman.canada.ca" tvg-name="CA218:Global Montreal" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA218" group-title="CA News",CA218:Global Montreal
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30096
+#EXTINF:-1 tvg-id="super.heart.home.ca" tvg-name="CA219:Super Channel Heart & Home" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA219SUPERCHANNELFUSE.png" group-title="CA Movies",CA219:Super Channel Heart & Home
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30095
+#EXTINF:-1 tvg-id="rds.info.ca" tvg-name="CA220:RDS INFO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA220SUPERCHANNELHEART&HOME.png" group-title="CA Doc",CA220:RDS INFO
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/30094
+#EXTINF:-1 tvg-id="cbc.winnipeg.mb.ca" tvg-name="CA221:CBC Winnipeg" tvg-logo="" group-title="CA General",CA221:CBC Winnipeg
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/59195
+#EXTINF:-1 tvg-id="nickelodeon.canada.ca" tvg-name="CA223:Nickelodeon" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA223" group-title="CA Kids",CA223:Nickelodeon
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/59196
+#EXTINF:-1 tvg-id="noovo.ca" tvg-name="CA222:(FR) NOOVO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA222" group-title="CA News",CA222:(FR) NOOVO
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/59197
+#EXTINF:-1 tvg-id="tva.sports.2.ca" tvg-name="CA224:TVA Sports 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA223TVASports2.png" group-title="CA Sports",CA224:TVA Sports 2
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/65933
+#EXTINF:-1 tvg-id="" tvg-name="CA225:Rogers TV Bathurst" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/CA225" group-title="CA General",CA225:Rogers TV Bathurst
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/49994
