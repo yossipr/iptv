@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yossipr/iptv/main/logos/Kan11.png", Kan 11
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/source1_4k/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yossipr/iptv/main/logos/Reshet13.png", Reshet 13
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yossipr/iptv/main/logos/Reshet13_1.png", Reshet 13
 http://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yossipr/iptv/main/logos/now14.png", Now 14
