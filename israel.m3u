@@ -1,37 +1,102 @@
 #EXTM3U
 
 http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/52734
-#EXTINF:-1 tvg-id="" tvg-name="IL002:CH 11 FHD" tvg-logo="https://raw.githubusercontent.com/yossipr/iptv/main/logos/Kan11.png" group-title="Israel-Idan",IL002:CH 11 FHD
+#EXTINF:-1 tvg-id="" tvg-name="IL002:CH 11 FHD" tvg-logo="https://raw.githubusercontent.com/yossipr/iptv/main/logos/Kan11.png" group-title="Idan",IL002:CH 11 FHD
 http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/52732
-#EXTINF:-1 tvg-id="" tvg-name="IL007:CHANNEL 12" tvg-logo="https://raw.githubusercontent.com/yossipr/iptv/main/logos/channel12.png" group-title="Israel-Idan",IL007:CHANNEL 12
+#EXTINF:-1 tvg-id="" tvg-name="IL007:CHANNEL 12" tvg-logo="https://raw.githubusercontent.com/yossipr/iptv/main/logos/channel12.png" group-title="Idan",IL007:CHANNEL 12
 http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/52727
-#EXTINF:-1 tvg-id="" tvg-name="IL013:13 RESHET TV HD" tvg-logo="https://raw.githubusercontent.com/yossipr/iptv/main/logos/Reshet13.png" group-title="Israel-Idan",IL013:13 RESHET TV HD
+#EXTINF:-1 tvg-id="" tvg-name="IL013:13 RESHET TV HD" tvg-logo="https://raw.githubusercontent.com/yossipr/iptv/main/logos/Reshet13.png" group-title="Idan",IL013:13 RESHET TV HD
 http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/52721
 
-#EXTINF:-1 tvg-id="" tvg-name="IL020:YES 1 HD" tvg-logo="" group-title="Israel-Yes",IL020:YES 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="IL020:YES 1 HD" tvg-logo="" group-title="Yes",IL020:YES 1 HD
 http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/52690
-#EXTINF:-1 tvg-id="" tvg-name="IL027:YES SPORT 5 HD" tvg-logo="https://raw.githubusercontent.com/yossipr/iptv/main/logos/sport 5.png" group-title="Israel-Yes",IL027:YES SPORT 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="IL027:YES SPORT 5 HD" tvg-logo="https://raw.githubusercontent.com/yossipr/iptv/main/logos/sport 5.png" group-title="Sport",IL027:YES SPORT 5 HD
 http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61758
-#EXTINF:-1 tvg-id="" tvg-name="IL046:YES SPORT 5 PLUS" tvg-logo="https://raw.githubusercontent.com/yossipr/iptv/main/logos/sport 5 plus.png" group-title="Israel-Yes",IL046:YES SPORT 5 PLUS
+#EXTINF:-1 tvg-id="" tvg-name="IL046:YES SPORT 5 PLUS" tvg-logo="https://raw.githubusercontent.com/yossipr/iptv/main/logos/sport 5 plus.png" group-title="Sport",IL046:YES SPORT 5 PLUS
 http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61801
-#EXTINF:-1 tvg-id="" tvg-name="IL028:YES SPORT 5 GOLD HD" tvg-logo="https://raw.githubusercontent.com/yossipr/iptv/main/logos/sport 5 gold.png" group-title="Israel-Yes",IL028:YES SPORT 5 GOLD HD
+#EXTINF:-1 tvg-id="" tvg-name="IL028:YES SPORT 5 GOLD HD" tvg-logo="https://raw.githubusercontent.com/yossipr/iptv/main/logos/sport 5 gold.png" group-title="Sport",IL028:YES SPORT 5 GOLD HD
 http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61759
-#EXTINF:-1 tvg-id="" tvg-name="IL038:YES SPORT 5 STARES FHD" tvg-logo="https://raw.githubusercontent.com/yossipr/iptv/main/logos/sport 5 stars.png" group-title="Israel-Yes",IL038:YES SPORT 5 STARES FHD
+#EXTINF:-1 tvg-id="" tvg-name="IL038:YES SPORT 5 STARES FHD" tvg-logo="https://raw.githubusercontent.com/yossipr/iptv/main/logos/sport 5 stars.png" group-title="Sport",IL038:YES SPORT 5 STARES FHD
 http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61793
-#EXTINF:-1 tvg-id="" tvg-name="IL039:YES SPORT 2 HD" tvg-logo="https://raw.githubusercontent.com/yossipr/iptv/main/logos/sport 2.png" group-title="Israel-Yes",IL039:YES SPORT 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="IL039:YES SPORT 2 HD" tvg-logo="https://raw.githubusercontent.com/yossipr/iptv/main/logos/sport 2.png" group-title="Sport",IL039:YES SPORT 2 HD
 http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61794
-#EXTINF:-1 tvg-id="" tvg-name="IL045:YES SPORT 4 HD" tvg-logo="https://raw.githubusercontent.com/yossipr/iptv/main/logos/sport 4.png" group-title="Israel-Yes",IL045:YES SPORT 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="IL045:YES SPORT 4 HD" tvg-logo="https://raw.githubusercontent.com/yossipr/iptv/main/logos/sport 4.png" group-title="Sport",IL045:YES SPORT 4 HD
 http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61800
 
-#EXTINF:-1 tvg-id="" tvg-name="IL001:KAN 11 HD" tvg-logo="https://raw.githubusercontent.com/yossipr/iptv/main/logos/Kan11.png" group-title="Israel-Idan",IL001:KAN 11 HD
+#EXTINF:-1 tvg-id="" tvg-name="IL001:KAN 11 HD" tvg-logo="https://raw.githubusercontent.com/yossipr/iptv/main/logos/Kan11.png" group-title="Idan",IL001:KAN 11 HD
 http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/52733
-#EXTINF:-1 tvg-id="" tvg-name="IL006:CHANNEL 11" tvg-logo="https://raw.githubusercontent.com/yossipr/iptv/main/logos/Kan11.png" group-title="Israel-Idan",IL006:CHANNEL 11
+#EXTINF:-1 tvg-id="" tvg-name="IL006:CHANNEL 11" tvg-logo="https://raw.githubusercontent.com/yossipr/iptv/main/logos/Kan11.png" group-title="Idan",IL006:CHANNEL 11
 http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/52728
-#EXTINF:-1 tvg-id="" tvg-name="IL014:12 KESHET TV HD" tvg-logo="https://raw.githubusercontent.com/yossipr/iptv/main/logos/channel12.png" group-title="Israel-Idan",IL014:12 KESHET TV HD
+#EXTINF:-1 tvg-id="" tvg-name="IL014:12 KESHET TV HD" tvg-logo="https://raw.githubusercontent.com/yossipr/iptv/main/logos/channel12.png" group-title="Idan",IL014:12 KESHET TV HD
 http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/52720
-#EXTINF:-1 tvg-id="" tvg-name="IL008:CHANNEL 13" tvg-logo="https://raw.githubusercontent.com/yossipr/iptv/main/logos/Reshet13.png" group-title="Israel-Idan",IL008:CHANNEL 13
+#EXTINF:-1 tvg-id="" tvg-name="IL008:CHANNEL 13" tvg-logo="https://raw.githubusercontent.com/yossipr/iptv/main/logos/Reshet13.png" group-title="Idan",IL008:CHANNEL 13
 http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/52726
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="IL016:KAB" tvg-logo="" group-title="Israel",IL016:KAB
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/52694
+#EXTINF:-1 tvg-id="" tvg-name="IL017:CHANNEL 2 NEWS" tvg-logo="" group-title="Israel",IL017:CHANNEL 2 NEWS
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/52693
+#EXTINF:-1 tvg-id="" tvg-name="IL018:I24NEWS HD ENGLISH" tvg-logo="" group-title="Israel",IL018:I24NEWS HD ENGLISH
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/52692
+#EXTINF:-1 tvg-id="" tvg-name="IL019:YES VIVA PLUS" tvg-logo="" group-title="Yes",IL019:YES VIVA PLUS
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/52691
+
+#EXTINF:-1 tvg-id="" tvg-name="IL022:YES MOVIES COMEDY HD" tvg-logo="" group-title="Yes",IL022:YES MOVIES COMEDY HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/52688
+#EXTINF:-1 tvg-id="" tvg-name="IL023:YES MOVIES DRAMA HD" tvg-logo="" group-title="Yes",IL023:YES MOVIES DRAMA HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/52687
+#EXTINF:-1 tvg-id="" tvg-name="IL024:YES DOCU HD" tvg-logo="" group-title="Yes",IL024:YES DOCU HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/52686
+#EXTINF:-1 tvg-id="" tvg-name="IL025:YES BABY TV" tvg-logo="" group-title="Yes",IL025:YES BABY TV
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61756
+#EXTINF:-1 tvg-id="" tvg-name="IL026:YES MUSIC 24 ISRAEL" tvg-logo="" group-title="Yes",IL026:YES MUSIC 24 ISRAEL
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61757
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="IL029:CHANNEL 2 NEWS HD" tvg-logo="" group-title="Israel",IL029:CHANNEL 2 NEWS HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61760
+
+#EXTINF:-1 tvg-id="" tvg-name="IL030:KABBALAH TV HEBREW" tvg-logo="" group-title="Israel",IL030:KABBALAH TV HEBREW
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61785
+#EXTINF:-1 tvg-id="" tvg-name="IL031:ISRAEL PARS TV" tvg-logo="" group-title="Israel",IL031:ISRAEL PARS TV
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61786
+#EXTINF:-1 tvg-id="" tvg-name="IL032:YES TV ACTION FHD" tvg-logo="" group-title="Yes",IL032:YES TV ACTION FHD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61787
+#EXTINF:-1 tvg-id="" tvg-name="IL033:YES CBS REALITY FHD" tvg-logo="" group-title="Yes",IL033:YES CBS REALITY FHD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61788
+#EXTINF:-1 tvg-id="" tvg-name="IL034:HOT 3 HD" tvg-logo="" group-title="HOT",IL034:HOT 3 HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61789
+#EXTINF:-1 tvg-id="" tvg-name="IL035:HOT ZONE HD" tvg-logo="" group-title="HOT",IL035:HOT ZONE HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61790
+#EXTINF:-1 tvg-id="" tvg-name="IL036:HOT HBO" tvg-logo="" group-title="HOT",IL036:HOT HBO
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61791
+#EXTINF:-1 tvg-id="" tvg-name="IL037:YES TRAVEL CHANNEL HD" tvg-logo="" group-title="Yes",IL037:YES TRAVEL CHANNEL HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61792
+
+
+#EXTINF:-1 tvg-id="" tvg-name="IL040:DISNEY CHANNEL" tvg-logo="" group-title="Yes",IL040:DISNEY CHANNEL
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61795
+#EXTINF:-1 tvg-id="" tvg-name="IL041:HIDABRUT CHANNEL" tvg-logo="" group-title="Israel",IL041:HIDABRUT CHANNEL
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61796
+#EXTINF:-1 tvg-id="" tvg-name="IL042:HISTORY HD" tvg-logo="" group-title="Israel",IL042:HISTORY HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61797
+#EXTINF:-1 tvg-id="" tvg-name="IL043:NAT GEO WILD" tvg-logo="" group-title="Yes",IL043:NAT GEO WILD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61798
+#EXTINF:-1 tvg-id="" tvg-name="IL044:YES ACTION HD" tvg-logo="" group-title="Yes",IL044:YES ACTION HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61799
+
+
+#EXTINF:-1 tvg-id="" tvg-name="IL047:NICK JR" tvg-logo="" group-title="Yes",IL047:NICK JR
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61811
+#EXTINF:-1 tvg-id="" tvg-name="IL048:YES BOLLYWOOD HD" tvg-logo="" group-title="Yes",IL048:YES BOLLYWOOD HD
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61812
+#EXTINF:-1 tvg-id="" tvg-name="IL049:YES KIDS MOVIES" tvg-logo="" group-title="Yes",IL049:YES KIDS MOVIES
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61813
+#EXTINF:-1 tvg-id="" tvg-name="IL050:YES SHOPPING" tvg-logo="" group-title="Yes",IL050:YES SHOPPING
+http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61814
 
 #EXTINF:-1 tvg-id="" tvg-name="IL003:KAN 33 (MAKAN TV) FHD" tvg-logo="" group-title="Israel",IL003:KAN 33 (MAKAN TV) FHD
 http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/52731
@@ -52,66 +117,3 @@ http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/52722
 
 #EXTINF:-1 tvg-id="" tvg-name="IL015:HIDABROT TV HD" tvg-logo="" group-title="Israel",IL015:HIDABROT TV HD
 http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/52719
-#EXTINF:-1 tvg-id="" tvg-name="IL016:KAB" tvg-logo="" group-title="Israel",IL016:KAB
-http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/52694
-#EXTINF:-1 tvg-id="" tvg-name="IL017:CHANNEL 2 NEWS" tvg-logo="" group-title="Israel",IL017:CHANNEL 2 NEWS
-http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/52693
-#EXTINF:-1 tvg-id="" tvg-name="IL018:I24NEWS HD ENGLISH" tvg-logo="" group-title="Israel",IL018:I24NEWS HD ENGLISH
-http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/52692
-#EXTINF:-1 tvg-id="" tvg-name="IL019:YES VIVA PLUS" tvg-logo="" group-title="Israel",IL019:YES VIVA PLUS
-http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/52691
-
-#EXTINF:-1 tvg-id="" tvg-name="IL022:YES MOVIES COMEDY HD" tvg-logo="" group-title="Israel",IL022:YES MOVIES COMEDY HD
-http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/52688
-#EXTINF:-1 tvg-id="" tvg-name="IL023:YES MOVIES DRAMA HD" tvg-logo="" group-title="Israel",IL023:YES MOVIES DRAMA HD
-http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/52687
-#EXTINF:-1 tvg-id="" tvg-name="IL024:YES DOCU HD" tvg-logo="" group-title="Israel",IL024:YES DOCU HD
-http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/52686
-#EXTINF:-1 tvg-id="" tvg-name="IL025:YES BABY TV" tvg-logo="" group-title="Israel",IL025:YES BABY TV
-http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61756
-#EXTINF:-1 tvg-id="" tvg-name="IL026:YES MUSIC 24 ISRAEL" tvg-logo="" group-title="Israel",IL026:YES MUSIC 24 ISRAEL
-http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61757
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="IL029:CHANNEL 2 NEWS HD" tvg-logo="" group-title="Israel",IL029:CHANNEL 2 NEWS HD
-http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61760
-
-#EXTINF:-1 tvg-id="" tvg-name="IL030:KABBALAH TV HEBREW" tvg-logo="" group-title="Israel",IL030:KABBALAH TV HEBREW
-http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61785
-#EXTINF:-1 tvg-id="" tvg-name="IL031:ISRAEL PARS TV" tvg-logo="" group-title="Israel",IL031:ISRAEL PARS TV
-http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61786
-#EXTINF:-1 tvg-id="" tvg-name="IL032:YES TV ACTION FHD" tvg-logo="" group-title="Israel",IL032:YES TV ACTION FHD
-http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61787
-#EXTINF:-1 tvg-id="" tvg-name="IL033:YES CBS REALITY FHD" tvg-logo="" group-title="Israel",IL033:YES CBS REALITY FHD
-http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61788
-#EXTINF:-1 tvg-id="" tvg-name="IL034:HOT 3 HD" tvg-logo="" group-title="Israel",IL034:HOT 3 HD
-http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61789
-#EXTINF:-1 tvg-id="" tvg-name="IL035:HOT ZONE HD" tvg-logo="" group-title="Israel",IL035:HOT ZONE HD
-http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61790
-#EXTINF:-1 tvg-id="" tvg-name="IL036:HOT HBO" tvg-logo="" group-title="Israel",IL036:HOT HBO
-http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61791
-#EXTINF:-1 tvg-id="" tvg-name="IL037:YES TRAVEL CHANNEL HD" tvg-logo="" group-title="Israel",IL037:YES TRAVEL CHANNEL HD
-http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61792
-
-
-#EXTINF:-1 tvg-id="" tvg-name="IL040:DISNEY CHANNEL" tvg-logo="" group-title="Israel",IL040:DISNEY CHANNEL
-http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61795
-#EXTINF:-1 tvg-id="" tvg-name="IL041:HIDABRUT CHANNEL" tvg-logo="" group-title="Israel",IL041:HIDABRUT CHANNEL
-http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61796
-#EXTINF:-1 tvg-id="" tvg-name="IL042:HISTORY HD" tvg-logo="" group-title="Israel",IL042:HISTORY HD
-http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61797
-#EXTINF:-1 tvg-id="" tvg-name="IL043:NAT GEO WILD" tvg-logo="" group-title="Israel",IL043:NAT GEO WILD
-http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61798
-#EXTINF:-1 tvg-id="" tvg-name="IL044:YES ACTION HD" tvg-logo="" group-title="Israel",IL044:YES ACTION HD
-http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61799
-
-
-#EXTINF:-1 tvg-id="" tvg-name="IL047:NICK JR" tvg-logo="" group-title="Israel",IL047:NICK JR
-http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61811
-#EXTINF:-1 tvg-id="" tvg-name="IL048:YES BOLLYWOOD HD" tvg-logo="" group-title="Israel",IL048:YES BOLLYWOOD HD
-http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61812
-#EXTINF:-1 tvg-id="" tvg-name="IL049:YES KIDS MOVIES" tvg-logo="" group-title="Israel",IL049:YES KIDS MOVIES
-http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61813
-#EXTINF:-1 tvg-id="" tvg-name="IL050:YES SHOPPING" tvg-logo="" group-title="Israel",IL050:YES SHOPPING
-http://aak94qq.wanicelife.com:8880/6mmk030018/73327299/61814
